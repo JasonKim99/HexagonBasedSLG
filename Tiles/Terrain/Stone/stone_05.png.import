@@ -1,0 +1,34 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/stone_05.png-a0ff22f90c7e66f2fc6c7bf7220db73d.stex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Tiles/Terrain/Stone/stone_05.png"
+dest_files=[ "res://.import/stone_05.png-a0ff22f90c7e66f2fc6c7bf7220db73d.stex" ]
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/bptc_ldr=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+process/invert_color=false
+stream=false
+size_limit=0
+detect_3d=false
+svg/scale=1.0
